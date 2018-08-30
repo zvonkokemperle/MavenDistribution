@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.github.zvonkokemperle</groupId>
-  <artifactId>moat</artifactId>
+  <artifactId>verve-adsdk</artifactId>
   <versioning>
-    <release>1.7.6</release>
+    <release>3.7.5-BETA</release>
     <versions>
-      <version>1.7.6</version>
+      <version>3.7.5-BETA</version>
     </versions>
-    <lastUpdated>20180830115446</lastUpdated>
+    <lastUpdated>20180830115449</lastUpdated>
   </versioning>
 </metadata>

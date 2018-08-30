@@ -1,0 +1,75 @@
+<project  xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                      https://maven.apache.org/xsd/maven-4.0.0.xsd">
+					  
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.github.zvonkokemperle</groupId>
+  <artifactId>verve-adsdk</artifactId>
+  <version>3.7.5-BETA</version>
+  
+  <repositories>
+  
+    <repository>
+      <id>verve-repo</id>
+      <url>https://com.github.zvonkokemperle/MavenDistribution/raw/adsdk</url>
+    </repository>
+	
+	<repository>
+      <id>support-v4</id>
+      <url>https://mvnrepository.com/artifact/com.android.support/support-v4</url>
+    </repository>
+	
+	<repository>
+      <id>recyclerview-v7</id>
+      <url>https://mvnrepository.com/artifact/com.android.support/recyclerview-v7</url>
+    </repository>
+	
+	<repository>
+      <id>appcompat-v7</id>
+      <url>https://mvnrepository.com/artifact/com.android.support/appcompat-v7</url>
+    </repository>  
+	
+  </repositories>
+  
+  <dependencies>
+		<dependency>
+			<groupId>com.github.zvonkokemperle</groupId>
+			<artifactId>ias</artifactId>
+			<version>3.6.4</version>
+			<scope>compile</scope>
+			<type>jar</type>
+		</dependency>
+		
+		<dependency>
+			<groupId>com.github.zvonkokemperle</groupId>
+			<artifactId>moat</artifactId>
+			<version>1.7.6</version>
+			<scope>compile</scope>
+			<type>aar</type>
+		</dependency>
+		
+		<dependency>
+			<groupId>com.android.support</groupId>
+			<artifactId>support-v4</artifactId>
+			<version>27.1.1</version>
+			<scope>compile</scope>
+		</dependency>
+		
+		<dependency>
+			<groupId>com.android.support</groupId>
+			<artifactId>appcompat-v7</artifactId>
+			<version>27.1.1</version>
+			<scope>compile</scope>
+		</dependency>
+		
+		<dependency>
+			<groupId>com.android.support</groupId>
+			<artifactId>recyclerview-v7</artifactId>
+			<version>27.1.1</version>
+			<scope>compile</scope>
+		</dependency>
+		
+	</dependencies>
+	
+</project>
