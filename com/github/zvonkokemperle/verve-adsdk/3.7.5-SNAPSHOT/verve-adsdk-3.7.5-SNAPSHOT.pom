@@ -6,7 +6,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.zvonkokemperle</groupId>
   <artifactId>verve-adsdk</artifactId>
-  <version>3.7.5-BETA</version>
+  <version>3.7.5-SNAPSHOT</version>
   
   <repositories>
   
