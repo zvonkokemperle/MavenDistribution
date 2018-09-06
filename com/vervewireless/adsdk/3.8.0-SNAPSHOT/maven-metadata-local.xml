@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.vervewireless</groupId>
+  <artifactId>adsdk</artifactId>
+  <version>3.8.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20180906070836</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>3.8.0-SNAPSHOT</value>
+        <updated>20180906070836</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.8.0-SNAPSHOT</value>
+        <updated>20180906070836</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
